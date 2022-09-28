@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-JS-Simple-Clock/static/css/main.5b25a107.chunk.css",
+    "main.js": "/React-JS-Simple-Clock/static/js/main.4ae3e485.chunk.js",
+    "main.js.map": "/React-JS-Simple-Clock/static/js/main.4ae3e485.chunk.js.map",
+    "runtime-main.js": "/React-JS-Simple-Clock/static/js/runtime-main.c20b0d40.js",
+    "runtime-main.js.map": "/React-JS-Simple-Clock/static/js/runtime-main.c20b0d40.js.map",
+    "static/js/2.17fcfd55.chunk.js": "/React-JS-Simple-Clock/static/js/2.17fcfd55.chunk.js",
+    "static/js/2.17fcfd55.chunk.js.map": "/React-JS-Simple-Clock/static/js/2.17fcfd55.chunk.js.map",
+    "index.html": "/React-JS-Simple-Clock/index.html",
+    "static/css/main.5b25a107.chunk.css.map": "/React-JS-Simple-Clock/static/css/main.5b25a107.chunk.css.map",
+    "static/js/2.17fcfd55.chunk.js.LICENSE.txt": "/React-JS-Simple-Clock/static/js/2.17fcfd55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c20b0d40.js",
+    "static/js/2.17fcfd55.chunk.js",
+    "static/css/main.5b25a107.chunk.css",
+    "static/js/main.4ae3e485.chunk.js"
+  ]
+}
